@@ -489,14 +489,6 @@ adb shell su -c 'cat /data/local/tmp/tango_service.log | tail -20'
 
 > 本项目的代码绝大部分由 AI 生成。**这不是谦虚，是事实** —— 见开头的声明。
 
-> [!NOTE]
-> **为什么 GitHub 侧栏的 Contributors 面板只显示 @Tom62？**
->
-> 那个面板只统计**有 GitHub 账号**的提交者。DeepSeek Harness 和豆包没有账号，
-> 所以不计入面板。
->
-> 但它们的贡献是真实的 —— 在 [commits/main](../../commits/main) 页面可以看到
-> 两个署名的 commit，作者分别是 DeepSeek Harness 和 Doubao。
 
 ---
 
@@ -1046,14 +1038,6 @@ VMs are safer but much slower. **If you need to run untrusted apps, use a VM.**
 
 > Most of the code here is AI-generated. That is a statement of fact, not modesty — see the notice at the top.
 
-> [!NOTE]
-> **Why does the Contributors sidebar only show @Tom62?**
->
-> That panel only counts committers who have a GitHub **account**. DeepSeek Harness and Doubao
-> don't have accounts, so they aren't counted.
->
-> Their contributions are real — see [commits/main](../../commits/main) for the two signed commits
-> authored by `DeepSeek Harness` and `Doubao`.
 
 ---
 
