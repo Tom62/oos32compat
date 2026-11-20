@@ -1,0 +1,6 @@
+id=oos32compat
+name=OOS32 Compat - 32-bit app support for OnePlus 13T/13S
+version=v1.0
+versionCode=10
+author=Tom62
+description=Restores 32-bit (armeabi-v7a / armeabi) app support on OnePlus 13T/13S running OxygenOS by restoring the 32-bit userspace from the matching ColorOS firmware. This package contains SCRIPTS ONLY - binary libraries must be extracted from your own firmware. See docs/build.md
