@@ -1,0 +1,19 @@
+﻿# Binary artifacts must NOT be committed
+*.so
+*.img
+*.bin
+*.apk
+*.apks
+*.xapk
+*.jar
+*.zip
+*.7z
+
+# extracted firmware / module payload
+/vendor_libs/
+/system_libs/
+/fw/
+
+# local notes
+*.local.md
+.env
